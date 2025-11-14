@@ -35,7 +35,7 @@ HTML5, CSS3, Flexbox, Grid, Git.
 
 ## 💡 Como Executar
 ```
-git clone https://github.com/CauaAndradex/Entrega1.git
+git clone https://github.com/CauaAndradex/Entrega2.git
 cd Entrega2
 cd ONGConnect2
 start index.html
@@ -51,5 +51,6 @@ Licença MIT — uso livre para aprendizado.
 
 
 > “Transformando código em impacto social.”
+
 
 
