@@ -35,9 +35,11 @@ HTML5, CSS3, Flexbox, Grid, Git.
 
 ## 💡 Como Executar
 ```
-git clone https://github.com/nicollassant/ONGConnect2.git
-cd plataforma-ong
+git clone https://github.com/CauaAndradex/Entrega1.git
+cd Entrega2
+cd ONGConnect2
 start index.html
+
 ```
 
 ## 👨‍💻 Autores
@@ -46,5 +48,6 @@ Desenvolvedores Front-End | Entusiastas de Acessibilidade e Web Performance
 
 ## 📝 Licença
 Licença MIT — uso livre para aprendizado.
+
 
 > “Transformando código em impacto social.”
