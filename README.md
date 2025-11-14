@@ -35,16 +35,23 @@ HTML5, CSS3, Flexbox, Grid, Git.
 
 ## 💡 Como Executar
 ```
-git clone https://github.com/nicollassant/ONGConnect2.git
-cd plataforma-ong
+git clone https://github.com/CauaAndradex/Entrega2.git
+cd Entrega2
+cd ONGConnect2
 start index.html
+
 ```
 
 ## 👨‍💻 Autores
-**Nicollas Santana de Sousa e Cauâ Andrade da Silva**  
+**Nicollas Santana de Sousa e Cauã de Andrade Silva**  
 Desenvolvedores Front-End | Entusiastas de Acessibilidade e Web Performance
 
 ## 📝 Licença
 Licença MIT — uso livre para aprendizado.
 
+
 > “Transformando código em impacto social.”
+
+
+
+
